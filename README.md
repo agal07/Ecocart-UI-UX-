@@ -1,2 +1,2 @@
-# Ecocart-UI-UX-
+# horizontechx_tasks-Ecocart-UI-UX
 Eco-friendly e-commerce website UI/UX design created in Figma.
